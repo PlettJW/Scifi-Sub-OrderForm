@@ -1,0 +1,21 @@
+C:\Users\hzxjhd\Desktop\RestrauntOrderForm\RestrauntOrderForm\bin\Debug\RestrauntOrderForm.exe.config
+C:\Users\hzxjhd\Desktop\RestrauntOrderForm\RestrauntOrderForm\bin\Debug\RestrauntOrderForm.exe
+C:\Users\hzxjhd\Desktop\RestrauntOrderForm\RestrauntOrderForm\bin\Debug\RestrauntOrderForm.pdb
+C:\Users\hzxjhd\Desktop\RestrauntOrderForm\RestrauntOrderForm\obj\Debug\RestrauntOrderForm.csprojAssemblyReference.cache
+C:\Users\hzxjhd\Desktop\RestrauntOrderForm\RestrauntOrderForm\obj\Debug\RestrauntOrderForm.Form1.resources
+C:\Users\hzxjhd\Desktop\RestrauntOrderForm\RestrauntOrderForm\obj\Debug\RestrauntOrderForm.Properties.Resources.resources
+C:\Users\hzxjhd\Desktop\RestrauntOrderForm\RestrauntOrderForm\obj\Debug\RestrauntOrderForm.csproj.GenerateResource.cache
+C:\Users\hzxjhd\Desktop\RestrauntOrderForm\RestrauntOrderForm\obj\Debug\RestrauntOrderForm.csproj.CoreCompileInputs.cache
+C:\Users\hzxjhd\Desktop\RestrauntOrderForm\RestrauntOrderForm\obj\Debug\RestrauntOrderForm.exe
+C:\Users\hzxjhd\Desktop\RestrauntOrderForm\RestrauntOrderForm\obj\Debug\RestrauntOrderForm.pdb
+C:\Code Projects\Computer Programing\Completed Projects\RestrauntOrderForm\RestrauntOrderForm\bin\Debug\RestrauntOrderForm.exe.config
+C:\Code Projects\Computer Programing\Completed Projects\RestrauntOrderForm\RestrauntOrderForm\bin\Debug\RestrauntOrderForm.exe
+C:\Code Projects\Computer Programing\Completed Projects\RestrauntOrderForm\RestrauntOrderForm\bin\Debug\RestrauntOrderForm.pdb
+C:\Code Projects\Computer Programing\Completed Projects\RestrauntOrderForm\RestrauntOrderForm\obj\Debug\RestrauntOrderForm.csproj.AssemblyReference.cache
+C:\Code Projects\Computer Programing\Completed Projects\RestrauntOrderForm\RestrauntOrderForm\obj\Debug\RestrauntOrderForm.csproj.SuggestedBindingRedirects.cache
+C:\Code Projects\Computer Programing\Completed Projects\RestrauntOrderForm\RestrauntOrderForm\obj\Debug\RestrauntOrderForm.Form1.resources
+C:\Code Projects\Computer Programing\Completed Projects\RestrauntOrderForm\RestrauntOrderForm\obj\Debug\RestrauntOrderForm.Properties.Resources.resources
+C:\Code Projects\Computer Programing\Completed Projects\RestrauntOrderForm\RestrauntOrderForm\obj\Debug\RestrauntOrderForm.csproj.GenerateResource.cache
+C:\Code Projects\Computer Programing\Completed Projects\RestrauntOrderForm\RestrauntOrderForm\obj\Debug\RestrauntOrderForm.csproj.CoreCompileInputs.cache
+C:\Code Projects\Computer Programing\Completed Projects\RestrauntOrderForm\RestrauntOrderForm\obj\Debug\RestrauntOrderForm.exe
+C:\Code Projects\Computer Programing\Completed Projects\RestrauntOrderForm\RestrauntOrderForm\obj\Debug\RestrauntOrderForm.pdb
